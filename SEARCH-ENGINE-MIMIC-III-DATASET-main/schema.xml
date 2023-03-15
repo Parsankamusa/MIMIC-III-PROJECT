@@ -1,5 +1,0 @@
-<field name="id" type="string" indexed="true" stored="true" required="true" multiValued="false"/>
-<field name="chartdate" type="pdate" indexed="true" stored="true" />
-<field name="note" type="text_general" indexed="true" stored="true" />
-<field name="hospital_expire_flag" type="boolean" indexed="true" stored="true" />
-<field name="icd9_codes" type="string" indexed="true" stored="true" multiValued="true" />
